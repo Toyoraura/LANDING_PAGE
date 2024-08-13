@@ -1,2 +1,2 @@
 # LANDING_PAGE
- Background animation crop
+ This is an animation for cropping an image or background when the website is reloaded, best for heroes and main page. 
